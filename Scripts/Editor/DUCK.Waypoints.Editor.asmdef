@@ -1,0 +1,12 @@
+{
+    "name": "DUCK.Waypoint.Editor",
+    "references": [
+        "DUCK.Waypoints"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
