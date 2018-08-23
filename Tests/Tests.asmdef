@@ -1,0 +1,14 @@
+{
+    "name": "DUCK.Waypoints.Tests",
+    "references": [
+        "DUCK.Waypoints"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
