@@ -1,0 +1,11 @@
+{
+  "name": "com.dubitlimited.duck.unity-waypoints",
+  "displayName": "Duck Waypoints",
+  "version": "1.1.0",
+  "description": "A way point & pathfinding system for Unity",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dubit/unity-waypoints"
+  },
+  "author": "Dubit Limited"
+}
